@@ -1,0 +1,14 @@
+/Users/lol/apps/fun/fluence-pollution-oracle/pollution_level/target/release/deps/marine_rs_sdk_main-370ec70a3c843440.rmeta: /Users/lol/.cargo/registry/src/github.com-1ecc6299db9ec823/marine-rs-sdk-main-0.6.15/src/lib.rs /Users/lol/.cargo/registry/src/github.com-1ecc6299db9ec823/marine-rs-sdk-main-0.6.15/src/export_allocator.rs /Users/lol/.cargo/registry/src/github.com-1ecc6299db9ec823/marine-rs-sdk-main-0.6.15/src/logger.rs /Users/lol/.cargo/registry/src/github.com-1ecc6299db9ec823/marine-rs-sdk-main-0.6.15/src/module_manifest.rs /Users/lol/.cargo/registry/src/github.com-1ecc6299db9ec823/marine-rs-sdk-main-0.6.15/src/result.rs /Users/lol/.cargo/registry/src/github.com-1ecc6299db9ec823/marine-rs-sdk-main-0.6.15/src/sdk_version_embedder.rs
+
+/Users/lol/apps/fun/fluence-pollution-oracle/pollution_level/target/release/deps/libmarine_rs_sdk_main-370ec70a3c843440.rlib: /Users/lol/.cargo/registry/src/github.com-1ecc6299db9ec823/marine-rs-sdk-main-0.6.15/src/lib.rs /Users/lol/.cargo/registry/src/github.com-1ecc6299db9ec823/marine-rs-sdk-main-0.6.15/src/export_allocator.rs /Users/lol/.cargo/registry/src/github.com-1ecc6299db9ec823/marine-rs-sdk-main-0.6.15/src/logger.rs /Users/lol/.cargo/registry/src/github.com-1ecc6299db9ec823/marine-rs-sdk-main-0.6.15/src/module_manifest.rs /Users/lol/.cargo/registry/src/github.com-1ecc6299db9ec823/marine-rs-sdk-main-0.6.15/src/result.rs /Users/lol/.cargo/registry/src/github.com-1ecc6299db9ec823/marine-rs-sdk-main-0.6.15/src/sdk_version_embedder.rs
+
+/Users/lol/apps/fun/fluence-pollution-oracle/pollution_level/target/release/deps/marine_rs_sdk_main-370ec70a3c843440.d: /Users/lol/.cargo/registry/src/github.com-1ecc6299db9ec823/marine-rs-sdk-main-0.6.15/src/lib.rs /Users/lol/.cargo/registry/src/github.com-1ecc6299db9ec823/marine-rs-sdk-main-0.6.15/src/export_allocator.rs /Users/lol/.cargo/registry/src/github.com-1ecc6299db9ec823/marine-rs-sdk-main-0.6.15/src/logger.rs /Users/lol/.cargo/registry/src/github.com-1ecc6299db9ec823/marine-rs-sdk-main-0.6.15/src/module_manifest.rs /Users/lol/.cargo/registry/src/github.com-1ecc6299db9ec823/marine-rs-sdk-main-0.6.15/src/result.rs /Users/lol/.cargo/registry/src/github.com-1ecc6299db9ec823/marine-rs-sdk-main-0.6.15/src/sdk_version_embedder.rs
+
+/Users/lol/.cargo/registry/src/github.com-1ecc6299db9ec823/marine-rs-sdk-main-0.6.15/src/lib.rs:
+/Users/lol/.cargo/registry/src/github.com-1ecc6299db9ec823/marine-rs-sdk-main-0.6.15/src/export_allocator.rs:
+/Users/lol/.cargo/registry/src/github.com-1ecc6299db9ec823/marine-rs-sdk-main-0.6.15/src/logger.rs:
+/Users/lol/.cargo/registry/src/github.com-1ecc6299db9ec823/marine-rs-sdk-main-0.6.15/src/module_manifest.rs:
+/Users/lol/.cargo/registry/src/github.com-1ecc6299db9ec823/marine-rs-sdk-main-0.6.15/src/result.rs:
+/Users/lol/.cargo/registry/src/github.com-1ecc6299db9ec823/marine-rs-sdk-main-0.6.15/src/sdk_version_embedder.rs:
+
+# env-dep:CARGO_PKG_VERSION=0.6.15
